@@ -1,0 +1,13 @@
+p[id$="-error"] {
+    color: red;
+}
+
+.table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.add-table-borders{
+    margin: 20px;
+    text-align: center;
+}
